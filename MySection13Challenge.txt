@@ -1,0 +1,1 @@
+Debug/main.cpp.o Debug/Footballer.cpp.o Debug/Club.cpp.o   
